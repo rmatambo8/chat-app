@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+./SocketService/node_modules
+./rodez/node_modules
 /.pnp
 .pnp.js
 

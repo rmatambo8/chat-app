@@ -1,0 +1,11 @@
+{
+  "name": "rodez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rodney Matambo, Ezra Ellette",
+  "license": "ISC"
+}
